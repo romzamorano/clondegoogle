@@ -3,7 +3,7 @@
 ## ÍNDICE
 
 * [1. Introducción](https://github.com/zamoranoross/clondegoogle/blob/main/README.md#1-introducci%C3%B3n)
-* [2. ¿Qué construí?](#)
+* [2. ¿Qué construí?](https://github.com/zamoranoross/clondegoogle/blob/main/README.md#2-qu%C3%A9-contru%C3%AD)
 * [3. Objetivo del proyecto](#)
 
 ****
